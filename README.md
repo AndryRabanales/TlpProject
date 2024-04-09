@@ -1,10 +1,10 @@
 # TlpProject
-Proyecto
-Equipo 2
-Integrantes:
-Caballero Beltrán Mariana
-Góngora Tun Jaqueline
-Rabanales Andrade Andry Azael
+### Proyecto
+###### Equipo 2
+##### Integrantes:
+###### Caballero Beltrán Mariana
+###### Góngora Tun Jaqueline
+###### Rabanales Andrade Andry Azael
 #### Introduccion
 ##### --Python: Descarga e instala Python desde su sitio web oficial.
 
